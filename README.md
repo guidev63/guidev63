@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Guilherme Augusto
+# ☕ Guilherme Augusto
 
 **`Desenvolvedor Front-end`**
 
