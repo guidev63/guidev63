@@ -77,6 +77,14 @@ Me chamo Guilherme Augusto, tenho 19 anos e sou apaixonado por tecnologia. Concl
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
 />
+<img 
+    align="left" 
+    alt="tailwindcss" 
+    title="tailwindcss"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
 
 <br/>
 <br/>
