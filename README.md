@@ -2,8 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Guilherme Augusto, tenho 19 anos e sou apaixonado por tecnologia. Concluí o curso técnico em Informática para Internet pelo SENAI e atualmente me dedico ao desenvolvimento de projetos web, utilizando ferramentas como React, JavaScript, TypeScript, HTML e CSS. Tenho um grande entusiasmo por aprender novas tecnologias e aprimorar minhas habilidades para criar soluções inovadoras e eficientes.
-
+Me chamo Guilherme Augusto, tenho 19 anos e sou apaixonado por tecnologia. Concluí o curso técnico em Informática para Internet pelo SENAI e, atualmente, me dedico ao desenvolvimento de projetos web, utilizando ferramentas como React, JavaScript, TypeScript, HTML e CSS. Tenho um grande entusiasmo por aprender novas tecnologias e aprimorar minhas habilidades para criar soluções inovadoras e eficientes. Além disso, estou estudando desenvolvimento mobile, buscando expandir ainda mais meus conhecimentos e atuar em diferentes áreas da programação.
 
 
 
