@@ -99,6 +99,13 @@ Me chamo Guilherme Augusto, tenho 19 anos e sou apaixonado por tecnologia. Concl
     width="30px" 
     style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" />
+<img 
+    align="left" 
+    alt="android" 
+    title="android"
+    width="30px" 
+    style="padding-right: 10px;" 
+  src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnavigation/reactnavigation-original.svg)" />
 
 
 
