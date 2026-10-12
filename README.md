@@ -12,7 +12,7 @@
   <img align="center" alt="Go" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
    
 
-  <br>
+  
   ![gopher dancing](./dancing-gopher.gif)
 
 </div>
