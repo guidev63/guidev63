@@ -47,11 +47,12 @@ Atualmente, estou estudando Go e aprofundando meus conhecimentos em lógica de p
 ---
 
 <div align="center">
-  💻 Sempre aprendendo, desenvolvendo e evoluindo.
+  💻 Sempre Aprendendo, Desenvolvendo e Evoluindo.
   <br>
   
+  ## Contato
 <div align="left">
-  <a href="https://linkedin.com/in/guilherme-augusto-borges-rodrigues" target="_blank">
+  <a href="[https://linkedin.com/in/guilherme-augusto-borges-rodrigues](https://www.linkedin.com/in/guilherme-augusto-borges-rodrigues-3a4421289/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
