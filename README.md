@@ -1,59 +1,49 @@
-## ☕ Guilherme Augusto
-### Desenvolvedor Front-End
+# ☕ Guilherme Augusto
 
-Me chamo Guilherme Augusto, tenho 21 anos e sou apaixonado por tecnologia. Concluí o curso técnico em Informática para Internet pelo SENAI e, atualmente, me dedico ao desenvolvimento de projetos web, utilizando ferramentas como React, React Native, JavaScript, TypeScript, HTML e CSS.
+### Desenvolvedor Front-End | Web & Mobile
 
-Tenho um grande entusiasmo por aprender novas tecnologias e aprimorar minhas habilidades para criar soluções inovadoras e eficientes. Além disso, estou estudando desenvolvimento mobile, buscando expandir ainda mais meus conhecimentos e atuar em diferentes áreas da programação.
+Olá! Sou Guilherme Augusto, desenvolvedor com formação técnica em Informática para Internet pelo SENAI e apaixonado por tecnologia.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="React-Native" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg">
-  <img align="center" alt="TypeScri## ☕ Guilherme Augusto
+Atualmente, desenvolvo projetos web e mobile utilizando tecnologias como **React, React Native, Expo, JavaScript e TypeScript**. Estou sempre buscando aprimorar minhas habilidades, explorar novas ferramentas e construir aplicações que unam funcionalidade, desempenho e uma boa experiência para o usuário.
 
-**Desenvolvedor Front-End**
+Também estou aprofundando meus conhecimentos em **Golang**, expandindo minha base de programação e explorando novas possibilidades no desenvolvimento de software.
 
-Me chamo Guilherme Augusto, tenho 21 anos e sou apaixonado por tecnologia. Concluí o curso técnico em Informática para Internet pelo SENAI e, atualmente, me dedico ao desenvolvimento de projetos web e mobile, utilizando ferramentas como React, React Native, Expo, JavaScript, TypeScript, HTML e CSS.
+## 🚀 Tecnologias e ferramentas
 
-Tenho grande entusiasmo por aprender novas tecnologias e aprimorar minhas habilidades para criar soluções inovadoras e eficientes. Além disso, estou estudando desenvolvimento mobile e Golang, buscando expandir ainda mais meus conhecimentos e atuar em diferentes áreas da programação.
-
-### 🚀 Tecnologias e ferramentas
-
-<div style="display: inline_block">
-  <br>
-  <img align="center" alt="React Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg">
-  <img align="center" alt="Expo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-  <img align="center" alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
+<div align="left">
+  <img alt="React Native" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg">
+  <img alt="Expo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg">
+  <img alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img alt="Next.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
+  <img alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+  <img alt="Go" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
 </div>
 
-### 🛠️ IDEs
+## 🛠️ IDEs e ferramentas de desenvolvimento
 
-<div style="display: inline_block">
-  <br>
+<div align="left">
   <a href="https://radon.swmansion.com/" target="_blank">
-    <img align="center" alt="Radon IDE" height="40" width="40" src="./assets/radon.png">
+    <img alt="Radon IDE" height="40" width="40" src="./assets/radon.png">
   </a>
   <a href="https://www.jetbrains.com/go/" target="_blank">
-    <img align="center" alt="GoLand" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg">
+    <img alt="GoLand" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg">
   </a>
 </div>
 
+## 🐹 Aprendendo Golang
 
-### Aprendendo Go
+Atualmente, estou estudando Go e aprofundando meus conhecimentos em lógica de programação, estruturas, métodos, ponteiros e orientação a objetos.
 
-![Gopher dancing](./dancing-gopher.gif)
-pt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-  <img align="center" alt="Go" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
+<div align="center">
+  <img src="./dancing-gopher.gif" alt="Gopher dançando, mascote da linguagem Go" width="180">
 </div>
 
-<br><br>
+---
 
-![Gopher dancing](./dancing-gopher.gif)
+<div align="center">
+  💻 Sempre aprendendo, desenvolvendo e evoluindo.
+</div>
