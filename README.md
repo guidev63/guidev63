@@ -13,7 +13,6 @@ Também estou aprofundando meus conhecimentos em **Golang**, expandindo minha ba
 <div align="left">
   <img alt="React Native" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg">
   <img alt="Expo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg">
-  <img alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   <img alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img alt="Next.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
