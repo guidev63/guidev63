@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Front-End | Web & Mobile
 
-Olá! Sou Guilherme Augusto, desenvolvedor com formação técnica em Informática para Internet pelo SENAI e apaixonado por tecnologia.
+Olá! Sou Guilherme Augusto, desenvolvedor com formação técnica em Informática para Internet e apaixonado por tecnologia.
 
 Atualmente, desenvolvo projetos web e mobile utilizando tecnologias como **React, React Native, Expo, JavaScript e TypeScript**. Estou sempre buscando aprimorar minhas habilidades, explorar novas ferramentas e construir aplicações que unam funcionalidade, desempenho e uma boa experiência para o usuário.
 
