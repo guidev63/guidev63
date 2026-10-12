@@ -2,15 +2,17 @@
 
 **Desenvolvedor Front-End**
 
-Me chamo Guilherme Augusto, tenho 21 anos e sou apaixonado por tecnologia. Concluí o curso técnico em Informática para Internet pelo SENAI e, atualmente, me dedico ao desenvolvimento de projetos web e mobile, utilizando ferramentas como React, React Native, JavaScript, TypeScript, HTML e CSS.
+Me chamo Guilherme Augusto, tenho 21 anos e sou apaixonado por tecnologia. Concluí o curso técnico em Informática para Internet pelo SENAI e, atualmente, me dedico ao desenvolvimento de projetos web e mobile, utilizando ferramentas como React, React Native, Expo, JavaScript, TypeScript, HTML e CSS.
 
-Tenho grande entusiasmo por aprender novas tecnologias e aprimorar minhas habilidades para criar soluções inovadoras e eficientes. Além disso, estou estudando Golang e desenvolvimento mobile, buscando expandir meus conhecimentos e atuar em diferentes áreas da programação.
+Tenho grande entusiasmo por aprender novas tecnologias e aprimorar minhas habilidades para criar soluções inovadoras e eficientes. Além disso, estou estudando desenvolvimento mobile e Golang, buscando expandir ainda mais meus conhecimentos e atuar em diferentes áreas da programação.
 
 ### 🚀 Tecnologias e ferramentas
 
 <div style="display: inline_block">
   <br>
   <img align="center" alt="React Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg">
+  <img align="center" alt="Expo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
