@@ -1,7 +1,8 @@
 ## ☕ Guilherme Augusto **Desenvolvedor Front-End** Me chamo Guilherme Augusto, Tenho 21 anos e sou apaixonado por Tecnologia. Concluí o curso técnico em Informática para Internet pelo SENAI e, atualmente, me dedico ao desenvolvimento de projetos web, Utilizando ferramentas como React,React Native, JavaScript, TypeScript, HTML e CSS. Tenho um grande entusiasmo por aprender novas tecnologias e aprimorar minhas habilidades para criar soluções inovadoras e eficientes. Além disso, estou Estudando Desenvolvimento mobile, buscando expandir Ainda mais meus conhecimentos e atuar em diferentes áreas da programação.
 
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+  <br>
   <img align="center" alt="React-Native" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg">
   <img align="center" alt="Type-Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Java-Script" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
@@ -11,7 +12,7 @@
   <img align="center" alt="Go" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
    
 
-
+  <br>
   ![gopher dancing](./dancing-gopher.gif)
 
 </div>
