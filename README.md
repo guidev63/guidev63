@@ -21,11 +21,16 @@ Tenho grande entusiasmo por aprender novas tecnologias e aprimorar minhas habili
   <img align="center" alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
 </div>
 
-### 🛠️ IDE
+### 🛠️ IDEs
 
 <div style="display: inline_block">
   <br>
-  <img align="center" alt="GoLand" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg">
+  <a href="https://radon.swmansion.com/" target="_blank">
+    <img align="center" alt="Radon IDE" height="40" width="40" src="https://radon.swmansion.com/favicon.ico">
+  </a>
+  <a href="https://www.jetbrains.com/go/" target="_blank">
+    <img align="center" alt="GoLand" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg">
+  </a>
 </div>
 
 ### Aprendendo Go
