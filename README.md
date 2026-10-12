@@ -28,12 +28,26 @@ Também estou aprofundando meus conhecimentos em **Golang**, expandindo minha ba
   <a href="https://www.jetbrains.com/go/" target="_blank">
     <img alt="GoLand" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg">
   </a>
+  <a href="https://radon.swmansion.com/" target="_blank">
+    <img alt="Radon IDE" height="40" width="40" src="./assets/radon.png">
+  </a>
 </div>
 
 ## Sistema operacional
 
 <div align="left">
-  <img alt="Windows" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg">
+  <img alt="Windows 11" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg">
+</div>
+
+## Editor de código
+
+<div align="left">
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img alt="Visual Studio Code" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+  </a>
+  <a href="https://cursor.com/" target="_blank">
+    <img alt="Cursor" height="40" width="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png">
+  </a>
 </div>
 
 ## Aprendendo Golang
@@ -47,12 +61,15 @@ Atualmente, estou estudando Go e aprofundando meus conhecimentos em lógica de p
 ---
 
 <div align="center">
-  Sempre Aprendendo, Desenvolvendo e Evoluindo.
-  <br>
-  
-  ## Contatos
+
+Sempre Aprendendo, Desenvolvendo e Evoluindo.
+
+## Contatos
+
 <div align="left">
   <a href="https://www.linkedin.com/in/guilherme-augusto-borges-rodrigues-3a4421289/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+</div>
+
 </div>
