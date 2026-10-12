@@ -28,9 +28,6 @@ Também estou aprofundando meus conhecimentos em **Golang**, expandindo minha ba
   <a href="https://www.jetbrains.com/go/" target="_blank">
     <img alt="GoLand" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg">
   </a>
-  <a href="https://radon.swmansion.com/" target="_blank">
-    <img alt="Radon IDE" height="40" width="40" src="./assets/radon.png">
-  </a>
 </div>
 
 ## Sistema operacional
@@ -45,8 +42,8 @@ Também estou aprofundando meus conhecimentos em **Golang**, expandindo minha ba
   <a href="https://code.visualstudio.com/" target="_blank">
     <img alt="Visual Studio Code" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
   </a>
-  <a href="https://cursor.com/" target="_blank">
-    <img alt="Cursor" height="40" width="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png">
+  <a href="https://devicon.dev/" target="_blank">
+    <img alt="Cursor" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cursor/cursor-original.svg">
   </a>
 </div>
 
