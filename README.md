@@ -26,7 +26,7 @@ Tenho grande entusiasmo por aprender novas tecnologias e aprimorar minhas habili
 <div style="display: inline_block">
   <br>
   <a href="https://radon.swmansion.com/" target="_blank">
-    <img align="center" alt="Radon IDE" height="40" width="40" src="https://radon.swmansion.com/favicon.ico">
+    <img align="center" alt="Radon IDE" height="40" width="40" src="./assets/radon.png">
   </a>
   <a href="https://www.jetbrains.com/go/" target="_blank">
     <img align="center" alt="GoLand" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg">
