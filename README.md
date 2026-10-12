@@ -8,7 +8,7 @@ Atualmente, desenvolvo projetos web e mobile utilizando tecnologias como **React
 
 Também estou aprofundando meus conhecimentos em **Golang**, expandindo minha base de programação e explorando novas possibilidades no desenvolvimento de software.
 
-## Tecnologias e ferramentas
+## Tecnologias e ferramentas.
 
 <div align="left">
   <img alt="React Native" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg">
@@ -22,7 +22,7 @@ Também estou aprofundando meus conhecimentos em **Golang**, expandindo minha ba
   <img alt="Go" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
 </div>
 
-## IDEs e ferramentas de desenvolvimento
+## IDEs e ferramentas de desenvolvimento.
 
 <div align="left">
   <a href="https://www.jetbrains.com/go/" target="_blank">
@@ -30,13 +30,13 @@ Também estou aprofundando meus conhecimentos em **Golang**, expandindo minha ba
   </a>
 </div>
 
-## Sistema operacional
+## Sistema operacional.
 
 <div align="left">
   <img alt="Windows 11" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg">
 </div>
 
-## Editor de código
+## Editor de código.
 
 <div align="left">
   <a href="https://code.visualstudio.com/" target="_blank">
@@ -44,7 +44,7 @@ Também estou aprofundando meus conhecimentos em **Golang**, expandindo minha ba
   </a>
 </div>
 
-## Aprendendo Golang
+## Aprendendo Golang.
 
 Atualmente, estou estudando Go e aprofundando meus conhecimentos em lógica de programação, estruturas, métodos, ponteiros e orientação a objetos.
 
@@ -58,7 +58,7 @@ Atualmente, estou estudando Go e aprofundando meus conhecimentos em lógica de p
 
 Sempre Aprendendo, Desenvolvendo e Evoluindo.
 
-## Contatos
+## Contatos.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/guilherme-augusto-borges-rodrigues-3a4421289/" target="_blank">
