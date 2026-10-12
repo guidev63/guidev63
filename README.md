@@ -31,7 +31,7 @@ Também estou aprofundando meus conhecimentos em **Golang**, expandindo minha ba
   </a>
 </div>
 
-## 🐹 Aprendendo Golang
+## Aprendendo Golang
 
 Atualmente, estou estudando Go e aprofundando meus conhecimentos em lógica de programação, estruturas, métodos, ponteiros e orientação a objetos.
 
@@ -42,5 +42,5 @@ Atualmente, estou estudando Go e aprofundando meus conhecimentos em lógica de p
 ---
 
 <div align="center">
-  💻 Sempre aprendendo, desenvolvendo e evoluindo.
+  💻 Sempre Aprendendo, Desenvolvendo e Evoluindo.
 </div>
