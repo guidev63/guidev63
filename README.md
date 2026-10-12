@@ -26,6 +26,6 @@ Tenho grande entusiasmo por aprender novas tecnologias e aprimorar minhas habili
   <img align="center" alt="GoLand" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg">
 </div>
 
-### 🐹 Aprendendo Go
+### Aprendendo Go
 
 ![Gopher dancing](./dancing-gopher.gif)
